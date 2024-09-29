@@ -23,17 +23,17 @@
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-* 🌍  I'm based in India 🇮🇳.
+* 🌍  I'm based in India.
 * ✉️  You can contact me at [pawankumarsingh3333@gmail.com](mailto:pawankumarsingh3333@gmail.com)
 * 🚀  I'm currently working on a lot of projects, I can't disclose that yet. I'm sorry. 😞
-* 🧠  I'm currently learning Machine Learning and other programming languages. 
+* 🧠  I'm currently learning Web Developement. 
 * 🤝  I'm open to collaborating on any interesting projects.
 * ⚡  I'm called TechApostle.
   
-<a href="https://www.x.com/Kiss_johzzy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+<a href="https://www.x.com/Pawan9675" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>
-<a href="https://www.linkedin.com/in/awejosepholaitan/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/pawan-singh-5627a32a5/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=0077B5&labelColor=1c1917" />
 </a>
 
