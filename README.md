@@ -121,8 +121,7 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
   />
 </picture>
 
-<a href="http://www.github.com/Pawan9675"><img src="https://github-readme-stats.vercel.app/api?username=Pawan9675&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
-</a>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=github_dark)]()
 
 <a href="http://www.github.com/jossyboydgenius"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jossyboydgenius&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
