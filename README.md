@@ -127,6 +127,8 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
 
 ![Pawan9675's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan9675&theme=github_dark&layout=pie&show_icons=true&hide_border=false)
 
+[![Pawan9675's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pawan9675)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pawan9675&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
                      
 
