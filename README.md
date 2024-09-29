@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Banner.gif?raw=true)
+![MasterHead](https://github.com/Pawan9675/Pawan9675/blob/main/Banner.png)
 
 <div align="center">
     <h1>
@@ -144,4 +144,4 @@ src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-th
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jossyboydgenius&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
                      
 
-![Banner1](https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Awe%20Joseph-2.gif?raw=true)
+![Banner1](https://github.com/Pawan9675/Pawan9675/blob/main/Banner.png)
