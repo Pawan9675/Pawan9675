@@ -126,19 +126,9 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
 ![Pawan9675's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pawan9675&theme=github_dark&hide_border=false)
 
 ![Pawan9675's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan9675&theme=github_dark&show_icons=true&hide_border=false)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan9675&langs_count=5&theme=github_dark)]()
 
-### Support Me:
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/jossyboydgenuis"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/jossyboydgenius"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jossyboydgenius&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pawan9675&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
                      
 
 ![Banner1](https://github.com/Pawan9675/Pawan9675/blob/main/Banner.png)
