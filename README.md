@@ -1,4 +1,6 @@
-![MasterHead](https://github.com/Pawan9675/Pawan9675/blob/main/Banner.png)
+<p align = "center>
+    ![MasterHead](https://github.com/Pawan9675/Pawan9675/blob/main/Banner.png)
+</p>
 
 <div align="center">
     <h1>
