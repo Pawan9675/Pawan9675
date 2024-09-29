@@ -77,9 +77,8 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
 <a href="https://www.hackerrank.com/Pawan9675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Pawan9675" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Pawan9675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Pawan9675" height="30" width="30" /></a>
 <a href="https://leetcode.com/u/Pawan9675/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Pawan9675" height="30" width="30" /></a>
-<a href="https://www.hackerearth.com/@jossyboydgenius" target="blank"><img align="center" src="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/hackerearth.png" alt="@jossyboydgenius" height="30" width="30" /></a>
-<a href="https://www.topcoder.com/members/techapostle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="techapostle" height="30" width="40" /></a>
-<a href="https://discord.gg/femijay#8966" target="blank"><img align="center" src="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/discord-removebg-preview.png" alt="femijay#8966" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@Pawan9675/" target="blank"><img align="center" src="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/hackerearth.png" alt="@Pawan9675" height="30" width="30" /></a>
+<a href="https://profiles.topcoder.com/Pawan9675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Pawan9675" height="30" width="40" /></a>
 </p>
 
 ## Socials:
