@@ -1,4 +1,4 @@
-![MasterHead align = "center"](https://github.com/Pawan9675/Pawan9675/blob/main/Banner.png)
+![MasterHead align = "center" width = 653 height = 179](https://github.com/Pawan9675/Pawan9675/blob/main/Banner.png)
 
 <div align="center">
     <h1>
