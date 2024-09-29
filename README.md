@@ -121,9 +121,12 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
   />
 </picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawan9675&show_icons=true&locale=en" alt="pawan9675" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawan9675&" alt="pawan9675" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawan9675&show_icons=true&locale=en&layout=compact" alt="pawan9675" /></p>
+<a href="http://www.github.com/Pawan9675"><img src="https://github-readme-stats.vercel.app/api?username=Pawan9675&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
+</a>
+
+<a href="http://www.github.com/jossyboydgenius"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jossyboydgenius&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/jossyboydgenius" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossyboydgenius&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me:
 
