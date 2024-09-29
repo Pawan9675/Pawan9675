@@ -123,7 +123,7 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Pawan9675&count_private=true&theme=github_dark&showicons=true)]()
 
-<a href="http://www.github.com/jossyboydgenius"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jossyboydgenius&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![Pawan9675's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pawan9675&theme=github_dark&hide_border=true)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan9675&langs_count=5&theme=github_dark)]()
 
