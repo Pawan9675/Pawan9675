@@ -14,7 +14,7 @@
 </h1>
 
 <h3 align="center">
-    I'm a Web Developer 🌐 and Problem Solver 🧩!
+    I'm a Web Developer 🌐 & a Problem Solver 🧩!
 </h3>
 
 <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-* 🌍  I'm based in India.
+* 🌍  I'm based in India 🇮🇳.
 * ✉️  You can contact me at [pawankumarsingh3333@gmail.com](mailto:pawankumarsingh3333@gmail.com)
 * 🚀  I'm currently working on a lot of projects, I can't disclose that yet. I'm sorry. 😞
 * 🧠  I'm currently learning Machine Learning and other programming languages. 
