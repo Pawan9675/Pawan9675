@@ -101,9 +101,9 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
 
 <b>My GitHub Stats</b>
 
-[![](https://raw.githubusercontent.com/Jossyboydgenius/Github-profile/master/profile-summary-card-output/outrun/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Jossyboydgenius/Github-profile/master/profile-summary-card-output/outrun/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Jossyboydgenius/Github-profile/master/profile-summary-card-output/outrun/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Jossyboydgenius/Github-profile/master/profile-summary-card-output/outrun/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Jossyboydgenius/Github-profile/master/profile-summary-card-output/outrun/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pawan9675&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pawan9675&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pawan9675&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pawan9675&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pawan9675&theme=github_dark&utcOffset=8)
 
 
 <picture>
