@@ -121,11 +121,11 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
   />
 </picture>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Pawan9675&count_private=true&theme=github_dark&showicons=true)]()
+![Pawan9675's Stats](https://github-readme-stats.vercel.app/api?username=Pawan9675&theme=github_dark&show_icons=true&hide_border=false&count_private=true)
 
-![Pawan9675's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pawan9675&theme=github_dark&hide_border=true)
+![Pawan9675's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pawan9675&theme=github_dark&hide_border=false)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan9675&langs_count=5&theme=github_dark)]()
+![Pawan9675's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan9675&theme=github_dark&show_icons=true&hide_border=false&layout=compact)
 
 ### Support Me:
 
