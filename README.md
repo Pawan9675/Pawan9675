@@ -65,16 +65,16 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
 
 ## Connect with me:
 
-<a href="https://codepen.io/jossyboydgenius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jossyboydgenius" height="30" width="40" /></a>
-<a href="https://hashnode.com/@techapostle" target="blank"><img align="center" src="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/hasnode.png" alt="@techapostle" height="30" width="30" /></a>
-  <a href="https://www.codechef.com/users/techapostle" target="_blank" rel="noreferrer">
+<a href="https://codepen.io/Pawan9675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Pawan9675" height="30" width="40" /></a>
+<a href="https://hashnode.com/@Pawan9675" target="blank"><img align="center" src="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/hasnode.png" alt="@Pawan9675" height="30" width="30" /></a>
+  <a href="https://www.codechef.com/users/pawan9675" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/12.png" />
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/Codechef.jpeg" />
       <img width="35" height="30" align="center" />
     </picture>
   </a>
-<a href="https://www.hackerrank.com/jossyboydgenius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jossyboydgenius" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Pawan9675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jossyboydgenius" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jossyboydgenius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jossyboydgenius" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/jossyboydgenius" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jossyboydgenius" height="30" width="30" /></a>
 <a href="https://www.hackerearth.com/@jossyboydgenius" target="blank"><img align="center" src="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/hackerearth.png" alt="@jossyboydgenius" height="30" width="30" /></a>
