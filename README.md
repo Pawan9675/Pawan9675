@@ -125,8 +125,7 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
 
 ![Pawan9675's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pawan9675&theme=github_dark&hide_border=false)
 
-![Pawan9675's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan9675&theme=github_dark&show_icons=true&hide_border=false)
-
+![Pawan9675's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan9675&theme=github_dark&layout=pie&show_icons=true&hide_border=false)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pawan9675&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
                      
