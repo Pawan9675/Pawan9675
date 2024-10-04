@@ -1,4 +1,6 @@
-<a href="https://app.daily.dev/pawan9675"><img src="https://api.daily.dev/devcards/v2/7i6rTQrXaJTpASMnREDJa.png?type=wide&r=sbl" width="652" alt="Pawan Singh's Dev Card"/></a>
+<div align="center">
+    <a href="https://app.daily.dev/pawan9675"><img src="https://api.daily.dev/devcards/v2/7i6rTQrXaJTpASMnREDJa.png?type=wide&r=sbl" width="652" alt="Pawan Singh's Dev Card"/></a>
+</div>
 
 <div align="center">
     <h1>
