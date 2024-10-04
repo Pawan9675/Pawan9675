@@ -43,8 +43,7 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
 [![wakatime](https://wakatime.com/badge/user/018e2ed3-7e15-43c3-9df7-d5e9686e2181.svg)](https://wakatime.com/@018e2ed3-7e15-43c3-9df7-d5e9686e2181)
 [![](https://visitcount.itsvg.in/api?id=Pawan9675&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 [![LeetCode user Pawan9675](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPawan9675&logo=leetcode&logoColor=yellow)](https://leetcode.com/Pawan9675/)
-<a href="https://badges.peiyuan.ch/leetcode/{Pawan9675}/name>
-
+[![LeetCode user Pawan9675](https://badges.peiyuan.ch/leetcode/Pawan9675/name)](https://leetcode.com/Pawan9675/)
 ### 💻 Languages:
 
 <p align="left">
