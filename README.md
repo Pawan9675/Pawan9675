@@ -39,7 +39,7 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
 
 
 [![wakatime](https://wakatime.com/badge/user/018e2ed3-7e15-43c3-9df7-d5e9686e2181.svg)](https://wakatime.com/@018e2ed3-7e15-43c3-9df7-d5e9686e2181)
-[![](https://visitcount.itsvg.in/api?id=Pawan9675&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Pawan9675&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ### 💻 Languages:
 
