@@ -131,5 +131,3 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pawan9675&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
                      
-
-![Banner1](https://github.com/Pawan9675/Pawan9675/blob/main/Banner.png)
