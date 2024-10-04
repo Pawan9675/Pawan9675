@@ -63,9 +63,9 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
 </p>
 
 -------------
+
 ## 🎖️Badges:
-<img src="https://github.com/Pawan9675/Pawan9675/assets/106860359/200a0395-ff26-4504-818c-73c4fe4dfd96" width="250" height="270" style="border-radius: 20px;"  alt="Pawan9675"/>
- <img src="https://github.com/Pawan9675/Pawan9675/assets/106860359/dbfd9e2e-25e8-41c9-8529-898625f283fc" width="250" height="270" style="border-radius: 20px;"  alt="Pawan9675"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Pawan9675&theme=dark&border=border&animated=true" alt="LeetCode Badges"/>
 
 ## 🏆 Github Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawan9675" alt="pawan9675" /></a> </p>
