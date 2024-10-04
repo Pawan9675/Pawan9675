@@ -115,7 +115,11 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
 
 ## 📈 Contribution Activity
 
-![snake animation](https://github.com/Pawan9675/Pawan9675/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pawan9675/Pawan9675/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pawan9675/Pawan9675/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 -------------
 
