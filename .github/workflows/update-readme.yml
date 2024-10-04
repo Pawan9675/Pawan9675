@@ -1,1 +1,25 @@
+name: GitHub Profile Summary Cards
 
+on:
+  push:  # Trigger on push events
+  schedule:  # Execute every 24 hours
+    - cron: '* * * * *'  # Runs every minute
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate GitHub Cards
+    permissions:
+      contents: write  # Allows write access to the repository contents
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication
+        with:
+          USERNAME: ${{ github.repository_owner }}  # Uses the repository owner as the username
