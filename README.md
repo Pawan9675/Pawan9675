@@ -70,6 +70,7 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
 ## 🏆 Github Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawan9675" alt="pawan9675" /></a> </p>
 
+-------------
 
 ## 🌍 Connect with me:
 
@@ -102,7 +103,7 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://x.com/Pawan9675" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> 
 <a href="https://medium.com/@Pawan9675" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/11.png" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/2.png" /> <img width="32" height="32" /> </picture> </a>
 
-
+-------------
 
 ## 📊 GitHub Stats:
 
