@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Pawan9675/Pawan9675/blob/main/Banner.png)
+![MasterHead](<a href="https://app.daily.dev/pawan9675"><img src="https://api.daily.dev/devcards/v2/7i6rTQrXaJTpASMnREDJa.png?type=wide&r=sbl" width="652" alt="Pawan Singh's Dev Card"/></a>)
 
 <div align="center">
     <h1>
@@ -60,7 +60,7 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
 -------------
 
 
-## 🏆 Badges:
+## 🏆 Github Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawan9675" alt="pawan9675" /></a> </p>
 
 
