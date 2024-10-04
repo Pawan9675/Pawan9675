@@ -111,21 +111,13 @@ src="https://img.shields.io/twitter/follow/Pawan9675?logo=twitter&style=for-the-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pawan9675&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pawan9675&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pawan9675&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pawan9675&theme=github_dark&utcOffset=8)
 
+-------------
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+## 📈 Contribution Activity
+
+![snake animation](https://github.com/Pawan9675/Pawan9675/blob/output/github-contribution-grid-snake2.svg)
+
+-------------
 
 ![Pawan9675's Stats](https://github-readme-stats.vercel.app/api?username=Pawan9675&theme=github_dark&show_icons=true&hide_border=false&count_private=true)
 
