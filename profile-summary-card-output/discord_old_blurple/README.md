@@ -45,6 +45,16 @@
 
 ---
 
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/Pawan9675/Pawan9675/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)
+```
+
+    
+
+---
+
 ![](./4-productive-time.svg)
 
 ```
